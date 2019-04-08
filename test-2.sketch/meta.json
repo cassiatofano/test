@@ -1,0 +1,555 @@
+{
+"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
+"build" : 72643,
+"version" : 116,
+"fonts" : [
+"Roboto-Regular",
+"Rubik-Bold",
+"AvenirNext-Medium",
+"Rubik-Medium",
+"AvenirNext-DemiBold",
+"EncodeSans-Bold",
+"Rubik-Light",
+"EncodeSans-Regular",
+"AvenirNext-Regular",
+"Rubik-Regular"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 0,
+"variant" : "NONAPPSTORE",
+"created" : {
+"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
+"appVersion" : "53.2",
+"build" : 72643,
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 116,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.72643"
+],
+"appVersion" : "53.2",
+"pagesAndArtboards" : {
+"E8E41474-77D8-4495-95A0-6D82486D9561" : {
+"name" : "others-options",
+"artboards" : {
+"C3813841-B694-4D76-AD20-44D66F629CEF" : {
+"name" : "new-menu-mobile"
+},
+"25C3444E-5644-4E5F-BB20-F7A980CC5709" : {
+"name" : "claim-profile-button-PLAYER-2"
+},
+"0962A09E-40F9-4F3A-95FC-0B6030AE601F" : {
+"name" : "claim-profile-button-PLAYER-6 Copy 4"
+},
+"5390DC25-CF06-4874-820A-67FF7E8CA185" : {
+"name" : "claim-profile-button-PLAYER-1"
+},
+"8FD546C0-AE03-4320-914B-E87962853AD2" : {
+"name" : "two-clubs-6"
+},
+"85968CE3-DD3C-4B8F-AC0C-5E9C6A0735A7" : {
+"name" : "claim-profile-button-PLAYER-6 Copy 3"
+},
+"6BA9EC30-2A4C-4053-87A6-CE6782287712" : {
+"name" : "claim-profile-button-PLAYER-6"
+},
+"8CC9BB7B-26BF-4F01-B937-153DB7A692EF" : {
+"name" : "no-club-photo-content-FAN-6"
+},
+"9CE8B97A-793F-47A5-8EFE-95C57A2E2B65" : {
+"name" : "no-club-photo-content-PLAYER-6"
+}
+}
+},
+"69D636BC-E793-4A7A-8C17-F0117B694708" : {
+"name" : "player-profile-highlights",
+"artboards" : {
+"B92ECADD-CEF3-4D20-BAC8-98209813A0DE" : {
+"name" : "player-profile-highlights-web-6.3"
+},
+"6E1DD6CE-E072-4C88-A287-B735F25D67FC" : {
+"name" : "player-profile-highlights-web-6.2"
+},
+"E39530C5-3B18-4E73-B664-EC0E3DD6897E" : {
+"name" : "player-profile-highlights-ios-6"
+},
+"500FE430-3034-4907-B210-614EADA53F2E" : {
+"name" : "player-profile-highlights-android-6"
+},
+"5695F8F1-0DE6-4B9D-913E-4BA4C18B50C4" : {
+"name" : "player-profile-highlights-web-6.1"
+}
+}
+},
+"9A9D3E19-373F-427B-A2B6-5E7CA6B57B01" : {
+"name" : "Symbols",
+"artboards" : {
+"8813D0DF-75F3-4CE6-8219-9C2A17A5B3D5" : {
+"name" : "icons\/info_dark"
+},
+"9802AFFC-B391-41FC-B0AC-B0A3EAC7FE5D" : {
+"name" : "icons\/volume_white"
+},
+"4E63E8F8-8A1C-4011-9F3C-4EF7AC5BB309" : {
+"name" : "thumbnails\/VOD_L"
+},
+"1E8C4761-8389-42E3-8707-9986034D3C73" : {
+"name" : "images\/thumbnail"
+},
+"B54D4C68-EEBE-4FCF-9F77-F4B0A1B6EC93" : {
+"name" : "icons\/close"
+},
+"F778FD0D-B479-4C57-9699-E6F7F24028D5" : {
+"name" : "team-away"
+},
+"CC681F40-95C6-4507-BB9E-8C6FEBA438AF" : {
+"name" : "team-home"
+},
+"67FD85C0-5073-4100-A386-EA44E72E9B76" : {
+"name" : "home logo"
+},
+"D0DC7CF4-C297-46C0-8F9D-7C53272E4CBB" : {
+"name" : "identity\/wordmark"
+},
+"7A69D55B-48A2-4AA5-96B9-CD58C22B85E0" : {
+"name" : "footer\/footer_XS"
+},
+"42CE69F3-B79F-4F63-8A0B-F0A5A8612BE9" : {
+"name" : "OneToMany-Line"
+},
+"40FAAA7F-215A-494F-BAC1-F37817AB69B7" : {
+"name" : "icons\/chance"
+},
+"0D657EA8-5E5B-4AC8-9555-7BC99A536C1E" : {
+"name" : "Competition name"
+},
+"CD5EDCA5-CE01-4B1A-B769-5437F614C225" : {
+"name" : "icons\/cast_connected_dark"
+},
+"EC39AC33-B6D5-42E5-8A73-EE63605F7156" : {
+"name" : "icons\/direct_free_kick"
+},
+"C6B89843-B603-4F3A-B5A5-B1EF0A439158" : {
+"name" : "header\/search"
+},
+"E69828B6-DC9D-45B2-AAA4-4F9874C9D681" : {
+"name" : "icons\/all"
+},
+"85D524E3-B0AE-4B96-BC33-F18B4FE82BD8" : {
+"name" : "icons\/cast_connected_white"
+},
+"BD4FF255-6DF5-40A1-B6E0-8E1361EEC88E" : {
+"name" : "icons\/cast_white"
+},
+"14FD9D3F-76EB-4BD1-A429-149EC14D6F92" : {
+"name" : "icons\/mute_dark"
+},
+"1FB2979D-4E1C-4CFC-A983-120197A21555" : {
+"name" : "event title"
+},
+"2058ABDC-1020-48DD-A888-F6116209522A" : {
+"name" : "ABC Home"
+},
+"B64DB4C2-430B-43BE-8AE4-25E3B9E037E6" : {
+"name" : "Abstract Table"
+},
+"B277DE75-ACF4-4D1B-BF12-DF7BA0798C5E" : {
+"name" : "header\/header_desktop"
+},
+"293FDE32-C9CE-4453-A549-5038BFE73D22" : {
+"name" : "icons\/foul"
+},
+"D9270912-24E1-4BE7-9037-1DC535B7AB8D" : {
+"name" : "highlight name"
+},
+"48720459-CFB3-487D-A6A6-77449E0F199B" : {
+"name" : "One"
+},
+"743F794C-E587-4EC8-80B9-5C0A87A58FB8" : {
+"name" : "images\/thumbnail"
+},
+"71017A4E-2B5E-499B-AA85-4F114006F59F" : {
+"name" : "icons\/corner_kick"
+},
+"813F7EEB-7529-4A5E-A27F-620D069F99B2" : {
+"name" : "competition flag"
+},
+"FEE4E62F-1113-4238-9653-2803EE229719" : {
+"name" : "Competition name"
+},
+"AF407ECD-B615-4576-8E62-70EA30527CB7" : {
+"name" : "icons\/fullscreen_exit_dark"
+},
+"EF7BDDC4-D28B-4E32-ACBC-B1A8C162E6B7" : {
+"name" : "Match name"
+},
+"C9F8F4A1-F805-4FFA-BE9A-7652D4D18921" : {
+"name" : "icons\/fullscreen_white"
+},
+"58A559B8-7192-4ACB-A08A-FF7DE45F0499" : {
+"name" : "icons\/goal_white"
+},
+"68060ADC-7E55-4157-B55A-F96E38DE9609" : {
+"name" : "calenar"
+},
+"52FAE1CC-D733-4A27-BC8E-2085DC9EC976" : {
+"name" : "icons\/back_dark"
+},
+"3B4A5507-84A9-475C-A588-937E1C9641E1" : {
+"name" : "icons\/indirect_free_kick"
+},
+"93BCFC24-B7C4-46C1-9834-A7AFA11D3648" : {
+"name" : "thumb"
+},
+"A70B774D-2C30-44D7-8DC3-DE0805EC3900" : {
+"name" : "competition flag"
+},
+"C70DAE02-DF23-441B-B835-02C2EBA11382" : {
+"name" : "away_logo"
+},
+"410096A3-0244-4C4A-BD3F-FF683434E54A" : {
+"name" : "thumbnail"
+},
+"2E0DB8C8-2FF6-4737-A454-6BBF866FB08B" : {
+"name" : "icons\/share_white"
+},
+"814CD101-39F0-4118-9ECF-5A544767A48E" : {
+"name" : "icons\/block"
+},
+"8FC4765C-A0D6-4A6A-BB71-C6A0C9AC7047" : {
+"name" : "away"
+},
+"2409CD8B-9B2F-46E5-A22C-672CD3544E85" : {
+"name" : "icons\/fullscreen_dark"
+},
+"033C903F-57D0-4E47-A4BC-F109A0500F21" : {
+"name" : "icons\/substitution"
+},
+"F2829BDA-69A4-4E18-8B05-6F0898036D32" : {
+"name" : "blue"
+},
+"42AD295A-7064-4685-B7B7-129BB50E469E" : {
+"name" : "icons\/cast_dark"
+},
+"2F102C22-ACEC-4668-B382-7A7814B60F2B" : {
+"name" : "icons\/payment"
+},
+"43F87337-CC5B-4897-8FE8-8D9207DF3B15" : {
+"name" : "icons\/calendar"
+},
+"68318021-3B91-4000-B98F-5DC30FB4D2E2" : {
+"name" : "icons\/info_white"
+},
+"90FE459A-A2A1-4CFF-94B0-EAD992C66A91" : {
+"name" : "icons\/volume_dark"
+},
+"10DF203A-C431-476A-80F6-8EE8ABA2FE4A" : {
+"name" : "icons\/settings_dark"
+},
+"D1A33670-ECDB-420F-ADB6-165C32CB2D55" : {
+"name" : "team home"
+},
+"269FA136-51EC-43FC-9CA7-56652E2636A4" : {
+"name" : "home"
+},
+"17182C77-B29B-4267-8D7E-09C315D73ABA" : {
+"name" : "footer\/footer_desktop_M"
+},
+"4BF8478C-FB68-42CB-ACBD-61671377D3F1" : {
+"name" : "icons\/all"
+},
+"B0FC4DCC-A2DB-4751-AC2E-98F48E39F961" : {
+"name" : "Attribute FK"
+},
+"0102D4D4-8848-4E57-9153-74B4D213B854" : {
+"name" : "icons\/pause_dark"
+},
+"2EC109AF-F911-4DB9-92CB-C7600CA1DC0B" : {
+"name" : "team away"
+},
+"1FD0F504-C1C6-4318-92C9-43C4F2FD1817" : {
+"name" : "base"
+},
+"981F52C5-673C-4D57-B555-7B496503A223" : {
+"name" : "icons\/done"
+},
+"40B000AC-5A09-458D-8A74-24B06D35A5DB" : {
+"name" : "away scrore"
+},
+"50447469-4038-43EC-B424-05BBBEEFE63D" : {
+"name" : "icons\/play_white"
+},
+"AB691089-639C-4C91-AB82-BE3B4207476F" : {
+"name" : "icons\/play_dark"
+},
+"C07D73EF-9CF4-4F72-99AC-F4425755B780" : {
+"name" : "icons\/pause_white"
+},
+"234DEBC2-473D-465A-9236-11BB193B86EE" : {
+"name" : "icons\/miss"
+},
+"DD331838-5AA0-499C-A073-E39C5D972D8E" : {
+"name" : "team_badge"
+},
+"2717A78C-D0E8-4C93-B6A7-FF4D7A0244E6" : {
+"name" : "icons\/share_dark"
+},
+"E9A69CF1-0942-4225-A66C-EB684F01078A" : {
+"name" : "avatar"
+},
+"7D1FBD7F-9E3F-467B-9DE5-70C811346751" : {
+"name" : "home score"
+},
+"FC8D5B47-E2B7-4070-B25C-1EDD31FC9B60" : {
+"name" : "icons\/manager\/tvs"
+},
+"5DBC6D80-81A6-4316-8FD5-3AABBF90B938" : {
+"name" : "date and TV station"
+},
+"9E508C66-12AF-419D-80A3-8026ECAC90FD" : {
+"name" : "ABC away"
+},
+"01D69BA1-069B-4777-8AD5-C61C8E562510" : {
+"name" : "highlight_icons\/start_half"
+},
+"6A3BBE3F-E3B4-4E2E-A497-67E09EDD2D7D" : {
+"name" : "icon\/lineup_white"
+},
+"1E242961-9F4F-4D68-9592-EA4934E16509" : {
+"name" : "icon\/lineup_dark"
+},
+"EB5BE925-1204-44E2-9E27-96AB7FE9DB12" : {
+"name" : "user_avatar"
+},
+"560CE275-3410-450C-95DA-3B689D6CB75E" : {
+"name" : "footer\/footer_desktop"
+},
+"1DB97303-70BF-4EE3-8481-AB5B6BEEDBEA" : {
+"name" : "Attribute Standard"
+},
+"3BFD7BB4-6AB3-452E-AF84-8AD6B8E7AE10" : {
+"name" : "home_logo"
+},
+"931A87C2-1451-48BC-BD52-A5C2E9578171" : {
+"name" : "views"
+},
+"D7C5DB7B-4C5F-429E-99B4-F6C2122B9801" : {
+"name" : "icons\/card"
+},
+"F0B48820-7B70-4EE4-9E64-C381624E40E4" : {
+"name" : "icons\/globe"
+},
+"3E735CAF-370A-4675-AF01-7D71F19D6871" : {
+"name" : "Detailed Table"
+},
+"84EBB688-6944-4730-A557-685FB7756B04" : {
+"name" : "icons\/people"
+},
+"FC3270FF-C661-4F4D-99DC-BD2702B082A1" : {
+"name" : "highlight_icons\/stop_half"
+},
+"AD9EDAC3-40EC-4267-B621-8A7A5AA28AF4" : {
+"name" : "icons\/fullscreen_exit_white"
+},
+"F11E1E03-B702-4CC2-A23E-D4CD5B4FD438" : {
+"name" : "Attribute PK"
+},
+"109B9FBE-2DAA-428F-A3A4-266C4FA58252" : {
+"name" : "base"
+},
+"818CF224-8943-41DA-B441-570C495FFF4A" : {
+"name" : "ic\/search"
+},
+"A558DD74-1242-4B56-AD87-81333C5088CD" : {
+"name" : "icons\/mute_white"
+},
+"8AAEB8E8-3D67-415E-A152-2F336E60D033" : {
+"name" : "OneToOne-S"
+},
+"FC6B3E4F-45B0-4829-8319-F6258397E185" : {
+"name" : "dark"
+},
+"91E7D600-A919-4E23-811C-472DE67B24A1" : {
+"name" : "time"
+},
+"6129E735-48C4-41FD-92CB-AC3EA1E59FEC" : {
+"name" : "icons\/free_kick"
+},
+"5E5BBA67-72B7-44E9-A134-AD8C1CFD048A" : {
+"name" : "away logo"
+},
+"3D311F52-BDA7-407A-95E8-890D433B4242" : {
+"name" : "time"
+},
+"94D0D4F6-82FA-4DC0-BBA8-43E9101A0B83" : {
+"name" : "icons\/penalty_white"
+},
+"64FD31DC-47B8-4E5B-B33F-4217582A3FE3" : {
+"name" : "live_match name"
+},
+"37B14013-1A77-4FFD-BE83-5CC90177F863" : {
+"name" : "myc\/mycujoo"
+},
+"B10A7343-4387-45F7-A2D8-850B78653976" : {
+"name" : "icons\/settings_white"
+},
+"065382A1-AE87-46DE-B805-E7F7B3ED59FD" : {
+"name" : "Many"
+},
+"62FC7109-3686-4398-B38A-367DEF898AC7" : {
+"name" : "team_badge"
+},
+"4D71244F-F317-4465-9F35-B798CD71321F" : {
+"name" : "upcoming event"
+}
+}
+},
+"B54587CE-D9E6-4A18-A297-546ADF5E5E48" : {
+"name" : "Variables",
+"artboards" : {
+"DD01E7E0-B259-4A11-8E6D-58F952787895" : {
+"name" : "page-map-player-profile"
+}
+}
+},
+"EF6CB6D8-2330-45C9-82A3-F4A722FB8983" : {
+"name" : "player-profile-stats",
+"artboards" : {
+"0320CA64-050A-49EE-84D3-C4A6BF773222" : {
+"name" : "player-profile-stats-android-5"
+},
+"7FA729D2-B8F6-4B8F-AAB0-36EC2971443F" : {
+"name" : "player-profile-stats-web-5"
+},
+"19360A9A-5986-464B-9609-12CF07DD4F1B" : {
+"name" : "player-profile-stats-ios-5"
+}
+}
+},
+"971BE52D-4ADC-4C37-927B-E7B540DA8DEF" : {
+"name" : "player-profile-notification",
+"artboards" : {
+"E5925AB8-FF8D-416B-B0E5-BB2D6A5823E7" : {
+"name" : "player-profile-notification-mobile-6"
+}
+}
+},
+"3E84F9D1-CEA0-429B-9EC4-0A3C01B864CF" : {
+"name" : "Variables-edit-page",
+"artboards" : {
+"6B1C3088-A075-4327-92F4-885D19395D08" : {
+"name" : "flow-edit-page"
+}
+}
+},
+"2606AD24-5DEB-468E-A044-348844B4CFD4" : {
+"name" : "options",
+"artboards" : {
+"7A3D34DB-0051-4F6B-B06F-1B03C137BBA6" : {
+"name" : "player-profile-desktop-5.1 copy 3"
+},
+"0E49ACB0-9067-4AC0-8E20-3562FBE77740" : {
+"name" : "player-profile-desktop-5.1 copy 4"
+},
+"27E06F54-C5B1-4CDD-91CD-711114CBCD01" : {
+"name" : "player-profile-desktop-5.1 copy"
+},
+"DAD9286F-2E1C-4E35-A9CB-3A10B5871BE0" : {
+"name" : "player-profile-desktop-5.1 copy 2"
+},
+"26F594ED-2341-4461-8F08-7B26944E4DDC" : {
+"name" : "player-profile-desktop-5.1"
+},
+"184230D1-0637-4821-9AF8-EEA116BD65E0" : {
+"name" : "player-profile-desktop-5.2"
+},
+"65DB3938-D9D9-492A-8047-77257CC04F1F" : {
+"name" : "00 copy 3"
+},
+"9CD5F765-0562-4B25-BFC7-232B0C86632A" : {
+"name" : "00 copy 2"
+},
+"06725EBD-B18A-4D9B-A44E-D625A949CD90" : {
+"name" : "00 copy 5"
+},
+"459015C3-4AF3-4643-A51E-B5E3B786D13E" : {
+"name" : "00 copy"
+},
+"587CF06B-2790-4FF1-8C4A-93A4DD81EA04" : {
+"name" : "player-profile-highlights-web-5"
+},
+"F44D54C8-4025-4252-BA58-96EF490A4E44" : {
+"name" : "player-profile-highlights-web-5 copy"
+},
+"757FB04C-F2A0-4A39-843C-9C7811B893CD" : {
+"name" : "00 copy 4"
+},
+"E5FF0C18-2B76-444D-9246-DACA8556F055" : {
+"name" : "00"
+},
+"026E07DB-651A-44EF-AFC9-507123F9FDA9" : {
+"name" : "player-profile-desktop-5.2"
+}
+}
+},
+"BBE2D907-E40D-4A4D-AE5D-352B107B0847" : {
+"name" : "player-profile-desktop",
+"artboards" : {
+"078EE9A4-38A0-4786-8D0F-E6F4B14349C6" : {
+"name" : "player-profile-desktop-6.3"
+},
+"A00A4D02-37A9-4B9A-BF9B-67A6D06B7F79" : {
+"name" : "player-profile-desktop-6.2"
+},
+"C0FE9A5E-4938-40FC-A0FA-F74A5AC45AC0" : {
+"name" : "player-profile-desktop-6.1"
+}
+}
+},
+"1C239870-BFD9-48A8-B1F8-9AF915224639" : {
+"name" : "diagram",
+"artboards" : {
+"00C5B287-3D15-4453-A94B-C7382FB670D0" : {
+"name" : "player"
+},
+"16B4F8C2-D911-49E2-99EB-D6DC732662AB" : {
+"name" : "fan"
+}
+}
+},
+"411A0ADF-70BB-49DE-BBCC-9B1881436792" : {
+"name" : "player-profile-edit",
+"artboards" : {
+"DA6DC8F3-F9A0-4FD1-9EF1-9823087E0070" : {
+"name" : "player-profile-edit-app-2"
+},
+"F2221A21-EB21-48B4-B96B-0EAED6649187" : {
+"name" : "player-profile-edit-web-1"
+},
+"4D6CCBA9-482E-4DEF-AD2C-73482A1ABD39" : {
+"name" : "player-profile-edit-web-2"
+},
+"60BA47B1-341D-4138-B7EB-6A3E68BE9EBA" : {
+"name" : "player-profile-edit-app-1"
+}
+}
+},
+"00A8DB44-3097-4792-942D-1E62F70E1E29" : {
+"name" : "player-profile-about",
+"artboards" : {
+"E9BC032C-F13F-40C1-972D-DDD68EE5D588" : {
+"name" : "player-profile-about-web-6"
+},
+"D82169BB-954E-4DE2-8BEB-15DD2CC1CEA2" : {
+"name" : "player-profile-about-android-6"
+},
+"A20EE1CC-F130-4F3D-AB96-DC670123CE25" : {
+"name" : "player-profile-about-ios-6"
+}
+}
+}
+}
+}

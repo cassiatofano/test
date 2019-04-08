@@ -1,0 +1,1078 @@
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 0,
+"width" : 0
+},
+"do_objectID" : "B54587CE-D9E6-4A18-A297-546ADF5E5E48",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"hasClickThrough" : true,
+"horizontalRulerData" : {
+"base" : -1004,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"includeInCloudUpload" : true,
+"verticalRulerData" : {
+"base" : -659,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"isFlippedVertical" : false,
+"nameIsFixed" : true,
+"name" : "Variables",
+"isVisible" : true,
+"resizingType" : 0,
+"clippingMaskMode" : 0,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"do_objectID" : "E7716716-447F-4CFC-B670-E4E28873DC87",
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 1461,
+"do_objectID" : "F32BC4CE-6DC4-43CA-9DC6-6F1525736408",
+"constrainProportions" : false,
+"x" : -1163,
+"width" : 1718,
+"y" : -828
+},
+"do_objectID" : "DD01E7E0-B259-4A11-8E6D-58F952787895",
+"layerListExpandedType" : 2,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "26BC5D04-C0B0-4D04-A7F0-B875B57F4F24",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+{
+"_class" : "exportFormat",
+"absoluteSize" : 0,
+"fileFormat" : "jpg",
+"namingScheme" : 0,
+"visibleScaleType" : 0,
+"name" : "",
+"scale" : 1
+}
+]
+},
+"hasClickThrough" : false,
+"hasBackgroundColor" : true,
+"horizontalRulerData" : {
+"do_objectID" : "3F543335-CF73-4B9C-A889-6E882B4ED0A7",
+"_class" : "rulerData",
+"base" : 0,
+"guides" : [
+
+]
+},
+"backgroundColor" : {
+"do_objectID" : "9D73535C-4E86-4E87-8E83-1D87053A5667",
+"red" : 0.1137254901960784,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.1215686274509804,
+"green" : 0.1176470588235294
+},
+"includeInCloudUpload" : true,
+"resizesContent" : false,
+"verticalRulerData" : {
+"do_objectID" : "01597016-0889-4554-A0C4-449C5D921342",
+"_class" : "rulerData",
+"base" : 0,
+"guides" : [
+
+]
+},
+"isFlippedVertical" : false,
+"nameIsFixed" : true,
+"name" : "page-map-player-profile",
+"isVisible" : true,
+"resizingType" : 0,
+"clippingMaskMode" : 0,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"do_objectID" : "D7EE2FE2-9CB1-4151-B2BF-9BC02F2D8886",
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 100,
+"do_objectID" : "20B6D183-4EFD-48C0-9D2F-E8379DDCC6F5",
+"constrainProportions" : false,
+"x" : 0,
+"width" : 241,
+"y" : 39
+},
+"do_objectID" : "E2250547-8EBC-4451-BCFB-55908F4A3EE8",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "A5298E97-3FDC-4DA3-B5A7-2C65B181D7B0",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"hasClickThrough" : false,
+"isFlippedVertical" : false,
+"nameIsFixed" : true,
+"name" : "title",
+"isVisible" : true,
+"resizingType" : 0,
+"clippingMaskMode" : 0,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"_class" : "style",
+"miterLimit" : 10,
+"do_objectID" : "7D7C0581-7F3B-4EB5-B26A-3555B5E638D0",
+"startMarkerType" : 0,
+"windingRule" : 1,
+"textStyle" : {
+"do_objectID" : "8CB38ADB-9C7C-4FF9-BC76-3E960431F0C5",
+"_class" : "textStyle",
+"verticalAlignment" : 0,
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Rubik-Bold",
+"size" : 32
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.043137254901960721,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.50196078431372559,
+"green" : 0.82352941176470584
+},
+"textStyleVerticalAlignmentKey" : 0,
+"kerning" : -0.53333339999999996,
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+},
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 38,
+"do_objectID" : "C283255D-C1C7-4199-8744-5ABB5EFECF3A",
+"constrainProportions" : false,
+"x" : 35,
+"width" : 206,
+"y" : 12
+},
+"do_objectID" : "E9E293B3-BE33-41BA-A77B-CBF9D6061F5B",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "8D59EA81-2E26-42B1-B10B-837B039D06D9",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"glyphBounds" : "{{2, 6}, {204, 31}}",
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Player profile",
+"isVisible" : true,
+"resizingType" : 0,
+"clippingMaskMode" : 0,
+"hasClippingMask" : false,
+"isLocked" : false,
+"attributedString" : {
+"string" : "Player profile",
+"_class" : "attributedString",
+"attributes" : [
+{
+"length" : 14,
+"_class" : "stringAttribute",
+"location" : 0,
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Rubik-Bold",
+"size" : 32
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.043137254901960721,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.50196078431372559,
+"green" : 0.82352941176470584
+},
+"textStyleVerticalAlignmentKey" : 0,
+"kerning" : -0.53333339999999996,
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+}
+]
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"_class" : "style",
+"miterLimit" : 10,
+"do_objectID" : "A1F55C7A-3A4F-432E-8574-7268F90848A3",
+"startMarkerType" : 0,
+"windingRule" : 1,
+"textStyle" : {
+"do_objectID" : "4890D6E6-32D9-403D-89E9-2EAFECD44A15",
+"_class" : "textStyle",
+"verticalAlignment" : 0,
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Rubik-Regular",
+"size" : 32
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.96862745098039216,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.97254901960784312,
+"green" : 0.96862745098039216
+},
+"textStyleVerticalAlignmentKey" : 0,
+"kerning" : -0.53333339999999996,
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+},
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 38,
+"do_objectID" : "B42AF8D9-5755-4B8B-A1BC-547F07A337B8",
+"constrainProportions" : false,
+"x" : 35,
+"width" : 113,
+"y" : 50
+},
+"do_objectID" : "46063111-F70E-4093-B584-287BE92B757A",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "C4CC811A-402A-4C20-BA3A-A14A8A7DFC1C",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"glyphBounds" : "{{0, 7}, {111, 24}}",
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Android",
+"isVisible" : true,
+"resizingType" : 0,
+"clippingMaskMode" : 0,
+"hasClippingMask" : false,
+"isLocked" : false,
+"attributedString" : {
+"string" : "Android",
+"_class" : "attributedString",
+"attributes" : [
+{
+"length" : 7,
+"_class" : "stringAttribute",
+"location" : 0,
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Rubik-Regular",
+"size" : 32
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.96862745098039216,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.97254901960784312,
+"green" : 0.96862745098039216
+},
+"textStyleVerticalAlignmentKey" : 0,
+"kerning" : -0.53333339999999996,
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+}
+]
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"do_objectID" : "2A228E66-BEAC-4419-A2A8-F29A7127FFF5",
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.043137254901960721,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.50196078431372559,
+"green" : 0.82352941176470584
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 100,
+"do_objectID" : "A2D09B24-0315-4324-A7F7-3A00E67AF9B3",
+"constrainProportions" : false,
+"x" : 0,
+"width" : 10,
+"y" : 0
+},
+"do_objectID" : "8EC3FA22-AEF6-44E5-8B8D-04F716E80F2D",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "5B679378-F4B3-439D-9809-94D82771AB71",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"hasConvertedToNewRoundCorners" : true,
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Rectangle",
+"isVisible" : true,
+"resizingType" : 0,
+"clippingMaskMode" : 0,
+"hasClippingMask" : false,
+"isClosed" : true,
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 0,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 0}",
+"point" : "{1, 0}",
+"cornerRadius" : 0,
+"curveTo" : "{1, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 1}",
+"point" : "{1, 1}",
+"cornerRadius" : 0,
+"curveTo" : "{1, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 0,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"shouldBreakMaskChain" : false,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"fixedRadius" : 0,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"isLocked" : false,
+"groupLayout" : {
+"_class" : "MSImmutableFreeformGroupLayout"
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"_class" : "style",
+"miterLimit" : 10,
+"do_objectID" : "03E1B8C4-B26F-4874-9A16-8024FDE94E6F",
+"startMarkerType" : 0,
+"windingRule" : 1,
+"textStyle" : {
+"do_objectID" : "D1D1C736-48CB-465E-929B-E483F36094AD",
+"_class" : "textStyle",
+"verticalAlignment" : 0,
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Rubik-Regular",
+"size" : 24
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.3276,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.83999999999999997,
+"green" : 0.39591999999999983
+},
+"textStyleVerticalAlignmentKey" : 0,
+"kerning" : -0.40000010000000003,
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+},
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 28,
+"do_objectID" : "C5C993F3-84B6-44D6-AEA9-38611229884D",
+"constrainProportions" : false,
+"x" : 241,
+"width" : 110,
+"y" : 210
+},
+"do_objectID" : "101D518F-1AD9-4717-9DB1-3CCC66B66573",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "E3E6F9C1-609B-45AE-99C6-6FDD9C0B0191",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"glyphBounds" : "{{2, 4}, {107, 24}}",
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Highlights",
+"isVisible" : true,
+"resizingType" : 0,
+"clippingMaskMode" : 0,
+"hasClippingMask" : false,
+"isLocked" : false,
+"attributedString" : {
+"string" : "Highlights",
+"_class" : "attributedString",
+"attributes" : [
+{
+"length" : 10,
+"_class" : "stringAttribute",
+"location" : 0,
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Rubik-Regular",
+"size" : 24
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.3276,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.83999999999999997,
+"green" : 0.39591999999999983
+},
+"textStyleVerticalAlignmentKey" : 0,
+"kerning" : -0.40000010000000003,
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+}
+]
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Rubik-Regular",
+"size" : 24
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.3276,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.83999999999999997,
+"green" : 0.39591999999999983
+},
+"textStyleVerticalAlignmentKey" : 0,
+"kerning" : -0.40000010000000003,
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 659,
+"y" : 210,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 28,
+"width" : 74
+},
+"do_objectID" : "3AA42390-0F5E-48A1-BFAB-44E914FF201A",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"glyphBounds" : "{{2, 4}, {72, 19}}",
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Events",
+"isVisible" : true,
+"resizingType" : 0,
+"clippingMaskMode" : 0,
+"hasClippingMask" : false,
+"isLocked" : false,
+"attributedString" : {
+"string" : "Events",
+"_class" : "attributedString",
+"attributes" : [
+{
+"length" : 6,
+"_class" : "stringAttribute",
+"location" : 0,
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Rubik-Regular",
+"size" : 24
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.3276,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.83999999999999997,
+"green" : 0.39591999999999983
+},
+"textStyleVerticalAlignmentKey" : 0,
+"kerning" : -0.40000010000000003,
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+}
+]
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Rubik-Regular",
+"size" : 24
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.3276,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.83999999999999997,
+"green" : 0.39591999999999983
+},
+"textStyleVerticalAlignmentKey" : 0,
+"kerning" : -0.40000010000000003,
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 1083,
+"y" : 210,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 28,
+"width" : 66
+},
+"do_objectID" : "CD72A322-9E92-4644-9D8D-4D988DF274FB",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"glyphBounds" : "{{0, 4}, {66, 19}}",
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "About",
+"isVisible" : true,
+"resizingType" : 0,
+"clippingMaskMode" : 0,
+"hasClippingMask" : false,
+"isLocked" : false,
+"attributedString" : {
+"string" : "About",
+"_class" : "attributedString",
+"attributes" : [
+{
+"length" : 5,
+"_class" : "stringAttribute",
+"location" : 0,
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Rubik-Regular",
+"size" : 24
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.3276,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.83999999999999997,
+"green" : 0.39591999999999983
+},
+"textStyleVerticalAlignmentKey" : 0,
+"kerning" : -0.40000010000000003,
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+}
+]
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 241,
+"y" : 259,
+"_class" : "rect",
+"constrainProportions" : true,
+"height" : 640,
+"width" : 360
+},
+"do_objectID" : "9DA78D11-F0A8-4F19-B4DE-0232A3EC18DF",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"image" : {
+"_ref_class" : "MSImageData",
+"_class" : "MSJSONFileReference",
+"_ref" : "images\/cae0f6b1a0e233263dd8af1c37ab2e2eee9e6a5d.png"
+},
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Bitmap",
+"isVisible" : true,
+"resizingType" : 0,
+"clippingMaskMode" : 0,
+"hasClippingMask" : false,
+"clippingMask" : "{{0, 0}, {1, 1}}",
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"fillReplacesImage" : false,
+"_class" : "bitmap",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"intendedDPI" : 0
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 659,
+"y" : 259,
+"_class" : "rect",
+"constrainProportions" : true,
+"height" : 1104,
+"width" : 360
+},
+"do_objectID" : "A064457C-A35C-4A92-844F-5B3AC31D7696",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"image" : {
+"_ref_class" : "MSImageData",
+"_class" : "MSJSONFileReference",
+"_ref" : "images\/1971f557ceeae5a969cdae8905fd8bb21deec593.png"
+},
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Bitmap",
+"isVisible" : true,
+"resizingType" : 0,
+"clippingMaskMode" : 0,
+"hasClippingMask" : false,
+"clippingMask" : "{{0, 0}, {1, 1}}",
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"fillReplacesImage" : false,
+"_class" : "bitmap",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"intendedDPI" : 0
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 1077,
+"y" : 259,
+"_class" : "rect",
+"constrainProportions" : true,
+"height" : 744,
+"width" : 360
+},
+"do_objectID" : "0739C541-29B1-43F4-94A3-F65A1E696D3A",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"image" : {
+"_ref_class" : "MSImageData",
+"_class" : "MSJSONFileReference",
+"_ref" : "images\/d8df2a253e76e1a7af4810027b5bfda367f6555b.png"
+},
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Bitmap",
+"isVisible" : true,
+"resizingType" : 0,
+"clippingMaskMode" : 0,
+"hasClippingMask" : false,
+"clippingMask" : "{{0, 0}, {1, 1}}",
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"fillReplacesImage" : false,
+"_class" : "bitmap",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"intendedDPI" : 0
+}
+],
+"isLocked" : false,
+"groupLayout" : {
+"_class" : "MSImmutableFreeformGroupLayout"
+},
+"shouldBreakMaskChain" : true,
+"isFlowHome" : false,
+"isFixedToViewport" : false,
+"presetDictionary" : {
+"name" : "Desktop HD",
+"offersLandscapeVariant" : 0,
+"height" : 1024,
+"width" : 1440,
+"allowResizedMatching" : 0
+},
+"_class" : "artboard",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"includeBackgroundColorInExport" : true
+}
+],
+"isLocked" : false,
+"layout" : {
+"columnWidth" : 50.5,
+"totalWidth" : 343,
+"drawHorizontalLines" : false,
+"gutterWidth" : 8,
+"_class" : "layoutGrid",
+"horizontalOffset" : 16,
+"isEnabled" : true,
+"gutterHeight" : 8,
+"drawHorizontal" : true,
+"guttersOutside" : false,
+"drawVertical" : true,
+"numberOfColumns" : 6,
+"rowHeightMultiplication" : 1
+},
+"groupLayout" : {
+"_class" : "MSImmutableFreeformGroupLayout"
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "page",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
