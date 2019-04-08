@@ -138,11 +138,11 @@
 {
 "_class" : "fill",
 "color" : {
-"red" : 0.30714052822653709,
+"red" : 1,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.01977896341463414,
-"green" : 1
+"blue" : 0.8799357755668491,
+"green" : 0.01977896341463414
 },
 "patternTileScale" : 1,
 "fillType" : 0,
@@ -252,11 +252,11 @@
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.1333333333,
+"red" : 1,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.14117647059999999,
-"green" : 0.1333333333
+"blue" : 0,
+"green" : 0.75868662587412594
 },
 "kerning" : -0.625,
 "textStyleVerticalAlignmentKey" : 0,
@@ -320,11 +320,11 @@
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.1333333333,
+"red" : 1,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.14117647059999999,
-"green" : 0.1333333333
+"blue" : 0,
+"green" : 0.75868662587412594
 },
 "kerning" : -0.625,
 "textStyleVerticalAlignmentKey" : 0,
