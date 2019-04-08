@@ -1,33 +1,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
-"x" : 0,
 "y" : 0,
+"width" : 0,
 "_class" : "rect",
+"x" : 0,
 "constrainProportions" : false,
-"height" : 0,
-"width" : 0
+"height" : 0
 },
 "do_objectID" : "B54587CE-D9E6-4A18-A297-546ADF5E5E48",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "hasClickThrough" : true,
 "horizontalRulerData" : {
@@ -56,12 +56,12 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
-"windingRule" : 1,
+"endMarkerType" : 0,
 "do_objectID" : "E7716716-447F-4CFC-B670-E4E28873DC87",
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
@@ -76,13 +76,6 @@
 "do_objectID" : "DD01E7E0-B259-4A11-8E6D-58F952787895",
 "layerListExpandedType" : 2,
 "exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "26BC5D04-C0B0-4D04-A7F0-B875B57F4F24",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
 "exportFormats" : [
 {
 "_class" : "exportFormat",
@@ -93,7 +86,14 @@
 "name" : "",
 "scale" : 1
 }
-]
+],
+"do_objectID" : "26BC5D04-C0B0-4D04-A7F0-B875B57F4F24",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"shouldTrim" : false
 },
 "hasClickThrough" : false,
 "hasBackgroundColor" : true,
@@ -134,12 +134,12 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
-"windingRule" : 1,
+"endMarkerType" : 0,
 "do_objectID" : "D7EE2FE2-9CB1-4151-B2BF-9BC02F2D8886",
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
@@ -154,16 +154,16 @@
 "do_objectID" : "E2250547-8EBC-4451-BCFB-55908F4A3EE8",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "do_objectID" : "A5298E97-3FDC-4DA3-B5A7-2C65B181D7B0",
 "includedLayerIds" : [
 
 ],
 "_class" : "exportOptions",
 "layerOptions" : 0,
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "hasClickThrough" : false,
 "isFlippedVertical" : false,
@@ -178,7 +178,7 @@
 "isFlippedHorizontal" : false,
 "style" : {
 "_class" : "style",
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "do_objectID" : "7D7C0581-7F3B-4EB5-B26A-3555B5E638D0",
 "startMarkerType" : 0,
 "windingRule" : 1,
@@ -209,7 +209,7 @@
 }
 }
 },
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "rotation" : 0,
 "frame" : {
@@ -224,16 +224,16 @@
 "do_objectID" : "E9E293B3-BE33-41BA-A77B-CBF9D6061F5B",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "do_objectID" : "8D59EA81-2E26-42B1-B10B-837B039D06D9",
 "includedLayerIds" : [
 
 ],
 "_class" : "exportOptions",
 "layerOptions" : 0,
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "glyphBounds" : "{{2, 6}, {204, 31}}",
 "dontSynchroniseWithSymbol" : false,
@@ -291,7 +291,7 @@
 "isFlippedHorizontal" : false,
 "style" : {
 "_class" : "style",
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "do_objectID" : "A1F55C7A-3A4F-432E-8574-7268F90848A3",
 "startMarkerType" : 0,
 "windingRule" : 1,
@@ -322,7 +322,7 @@
 }
 }
 },
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "rotation" : 0,
 "frame" : {
@@ -337,16 +337,16 @@
 "do_objectID" : "46063111-F70E-4093-B584-287BE92B757A",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "do_objectID" : "C4CC811A-402A-4C20-BA3A-A14A8A7DFC1C",
 "includedLayerIds" : [
 
 ],
 "_class" : "exportOptions",
 "layerOptions" : 0,
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "glyphBounds" : "{{0, 7}, {111, 24}}",
 "dontSynchroniseWithSymbol" : false,
@@ -406,22 +406,22 @@
 "_class" : "style",
 "borders" : [
 {
-"thickness" : 1,
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.59199999999999997,
 "green" : 0.59199999999999997
-}
+},
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"thickness" : 1,
+"position" : 1
 }
 ],
 "do_objectID" : "2A228E66-BEAC-4419-A2A8-F29A7127FFF5",
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -442,7 +442,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "rotation" : 0,
 "frame" : {
@@ -457,16 +457,16 @@
 "do_objectID" : "8EC3FA22-AEF6-44E5-8B8D-04F716E80F2D",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "do_objectID" : "5B679378-F4B3-439D-9809-94D82771AB71",
 "includedLayerIds" : [
 
 ],
 "_class" : "exportOptions",
 "layerOptions" : 0,
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "edited" : false,
 "hasConvertedToNewRoundCorners" : true,
@@ -483,42 +483,42 @@
 {
 "_class" : "curvePoint",
 "curveMode" : 1,
-"hasCurveTo" : false,
+"hasCurveFrom" : false,
 "curveFrom" : "{0, 0}",
 "point" : "{0, 0}",
 "cornerRadius" : 0,
 "curveTo" : "{0, 0}",
-"hasCurveFrom" : false
+"hasCurveTo" : false
 },
 {
 "_class" : "curvePoint",
 "curveMode" : 1,
-"hasCurveTo" : false,
+"hasCurveFrom" : false,
 "curveFrom" : "{1, 0}",
 "point" : "{1, 0}",
 "cornerRadius" : 0,
 "curveTo" : "{1, 0}",
-"hasCurveFrom" : false
+"hasCurveTo" : false
 },
 {
 "_class" : "curvePoint",
 "curveMode" : 1,
-"hasCurveTo" : false,
+"hasCurveFrom" : false,
 "curveFrom" : "{1, 1}",
 "point" : "{1, 1}",
 "cornerRadius" : 0,
 "curveTo" : "{1, 1}",
-"hasCurveFrom" : false
+"hasCurveTo" : false
 },
 {
 "_class" : "curvePoint",
 "curveMode" : 1,
-"hasCurveTo" : false,
+"hasCurveFrom" : false,
 "curveFrom" : "{0, 1}",
 "point" : "{0, 1}",
 "cornerRadius" : 0,
 "curveTo" : "{0, 1}",
-"hasCurveFrom" : false
+"hasCurveTo" : false
 }
 ],
 "shouldBreakMaskChain" : false,
@@ -544,7 +544,7 @@
 "isFlippedHorizontal" : false,
 "style" : {
 "_class" : "style",
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "do_objectID" : "03E1B8C4-B26F-4874-9A16-8024FDE94E6F",
 "startMarkerType" : 0,
 "windingRule" : 1,
@@ -575,7 +575,7 @@
 }
 }
 },
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "rotation" : 0,
 "frame" : {
@@ -590,16 +590,16 @@
 "do_objectID" : "101D518F-1AD9-4717-9DB1-3CCC66B66573",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "do_objectID" : "E3E6F9C1-609B-45AE-99C6-6FDD9C0B0191",
 "includedLayerIds" : [
 
 ],
 "_class" : "exportOptions",
 "layerOptions" : 0,
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "glyphBounds" : "{{2, 4}, {107, 24}}",
 "dontSynchroniseWithSymbol" : false,
@@ -656,6 +656,9 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
+"startMarkerType" : 0,
+"endMarkerType" : 0,
+"windingRule" : 1,
 "textStyle" : {
 "verticalAlignment" : 0,
 "_class" : "textStyle",
@@ -682,33 +685,30 @@
 }
 }
 },
-"windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "rotation" : 0,
 "frame" : {
-"x" : 659,
 "y" : 210,
+"width" : 74,
 "_class" : "rect",
+"x" : 659,
 "constrainProportions" : false,
-"height" : 28,
-"width" : 74
+"height" : 28
 },
 "do_objectID" : "3AA42390-0F5E-48A1-BFAB-44E914FF201A",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "glyphBounds" : "{{2, 4}, {72, 19}}",
 "dontSynchroniseWithSymbol" : false,
@@ -765,6 +765,9 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
+"startMarkerType" : 0,
+"endMarkerType" : 0,
+"windingRule" : 1,
 "textStyle" : {
 "verticalAlignment" : 0,
 "_class" : "textStyle",
@@ -791,33 +794,30 @@
 }
 }
 },
-"windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "rotation" : 0,
 "frame" : {
-"x" : 1083,
 "y" : 210,
+"width" : 66,
 "_class" : "rect",
+"x" : 1083,
 "constrainProportions" : false,
-"height" : 28,
-"width" : 66
+"height" : 28
 },
 "do_objectID" : "CD72A322-9E92-4644-9D8D-4D988DF274FB",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "glyphBounds" : "{{0, 4}, {66, 19}}",
 "dontSynchroniseWithSymbol" : false,
@@ -874,33 +874,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
-"x" : 241,
 "y" : 259,
+"width" : 360,
 "_class" : "rect",
+"x" : 241,
 "constrainProportions" : true,
-"height" : 640,
-"width" : 360
+"height" : 640
 },
 "do_objectID" : "9DA78D11-F0A8-4F19-B4DE-0232A3EC18DF",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "image" : {
 "_ref_class" : "MSImageData",
@@ -927,33 +927,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
-"x" : 659,
 "y" : 259,
+"width" : 360,
 "_class" : "rect",
+"x" : 659,
 "constrainProportions" : true,
-"height" : 1104,
-"width" : 360
+"height" : 1104
 },
 "do_objectID" : "A064457C-A35C-4A92-844F-5B3AC31D7696",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "image" : {
 "_ref_class" : "MSImageData",
@@ -980,33 +980,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
-"x" : 1077,
 "y" : 259,
+"width" : 360,
 "_class" : "rect",
+"x" : 1077,
 "constrainProportions" : true,
-"height" : 744,
-"width" : 360
+"height" : 744
 },
 "do_objectID" : "0739C541-29B1-43F4-94A3-F65A1E696D3A",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "image" : {
 "_ref_class" : "MSImageData",
@@ -1039,11 +1039,11 @@
 "isFlowHome" : false,
 "isFixedToViewport" : false,
 "presetDictionary" : {
-"name" : "Desktop HD",
+"allowResizedMatching" : 0,
 "offersLandscapeVariant" : 0,
+"name" : "Desktop HD",
 "height" : 1024,
-"width" : 1440,
-"allowResizedMatching" : 0
+"width" : 1440
 },
 "_class" : "artboard",
 "booleanOperation" : -1,

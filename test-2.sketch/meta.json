@@ -1,36 +1,5 @@
 {
 "commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
-"build" : 72643,
-"version" : 116,
-"fonts" : [
-"Roboto-Regular",
-"Rubik-Bold",
-"AvenirNext-Medium",
-"Rubik-Medium",
-"AvenirNext-DemiBold",
-"EncodeSans-Bold",
-"Rubik-Light",
-"EncodeSans-Regular",
-"AvenirNext-Regular",
-"Rubik-Regular"
-],
-"compatibilityVersion" : 99,
-"app" : "com.bohemiancoding.sketch3",
-"autosaved" : 0,
-"variant" : "NONAPPSTORE",
-"created" : {
-"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
-"appVersion" : "53.2",
-"build" : 72643,
-"app" : "com.bohemiancoding.sketch3",
-"compatibilityVersion" : 99,
-"version" : 116,
-"variant" : "NONAPPSTORE"
-},
-"saveHistory" : [
-"NONAPPSTORE.72643"
-],
-"appVersion" : "53.2",
 "pagesAndArtboards" : {
 "E8E41474-77D8-4495-95A0-6D82486D9561" : {
 "name" : "others-options",
@@ -512,19 +481,19 @@
 "1C239870-BFD9-48A8-B1F8-9AF915224639" : {
 "name" : "diagram",
 "artboards" : {
-"00C5B287-3D15-4453-A94B-C7382FB670D0" : {
-"name" : "player"
-},
 "16B4F8C2-D911-49E2-99EB-D6DC732662AB" : {
 "name" : "fan"
+},
+"00C5B287-3D15-4453-A94B-C7382FB670D0" : {
+"name" : "player"
 }
 }
 },
 "411A0ADF-70BB-49DE-BBCC-9B1881436792" : {
 "name" : "player-profile-edit",
 "artboards" : {
-"DA6DC8F3-F9A0-4FD1-9EF1-9823087E0070" : {
-"name" : "player-profile-edit-app-2"
+"60BA47B1-341D-4138-B7EB-6A3E68BE9EBA" : {
+"name" : "player-profile-edit-app-1"
 },
 "F2221A21-EB21-48B4-B96B-0EAED6649187" : {
 "name" : "player-profile-edit-web-1"
@@ -532,8 +501,8 @@
 "4D6CCBA9-482E-4DEF-AD2C-73482A1ABD39" : {
 "name" : "player-profile-edit-web-2"
 },
-"60BA47B1-341D-4138-B7EB-6A3E68BE9EBA" : {
-"name" : "player-profile-edit-app-1"
+"DA6DC8F3-F9A0-4FD1-9EF1-9823087E0070" : {
+"name" : "player-profile-edit-app-2"
 }
 }
 },
@@ -551,5 +520,36 @@
 }
 }
 }
-}
+},
+"version" : 116,
+"fonts" : [
+"Roboto-Regular",
+"Rubik-Bold",
+"AvenirNext-Medium",
+"Rubik-Medium",
+"AvenirNext-DemiBold",
+"EncodeSans-Bold",
+"Rubik-Light",
+"EncodeSans-Regular",
+"AvenirNext-Regular",
+"Rubik-Regular"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 0,
+"variant" : "NONAPPSTORE",
+"created" : {
+"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
+"appVersion" : "53.2",
+"build" : 72643,
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 116,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.72643"
+],
+"appVersion" : "53.2",
+"build" : 72643
 }
