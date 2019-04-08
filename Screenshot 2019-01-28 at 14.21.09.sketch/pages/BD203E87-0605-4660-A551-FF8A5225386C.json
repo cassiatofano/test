@@ -7,7 +7,13 @@
 "startMarkerType" : 0,
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
 "frame" : {
 "x" : 0,
 "y" : 0,
@@ -17,7 +23,7 @@
 "width" : 0
 },
 "do_objectID" : "BD203E87-0605-4660-A551-FF8A5225386C",
-"layerListExpandedType" : 0,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "includedLayerIds" : [
@@ -29,15 +35,9 @@
 
 ]
 },
-"hasClickThrough" : true,
-"horizontalRulerData" : {
-"base" : 0,
-"_class" : "rulerData",
-"guides" : [
-
-]
-},
 "includeInCloudUpload" : true,
+"layerListExpandedType" : 0,
+"rotation" : 0,
 "verticalRulerData" : {
 "base" : 0,
 "_class" : "rulerData",
@@ -46,11 +46,9 @@
 ]
 },
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "Page 1",
 "isVisible" : true,
-"resizingType" : 0,
-"clippingMaskMode" : 0,
 "hasClippingMask" : false,
 "layers" : [
 {
@@ -62,7 +60,13 @@
 "startMarkerType" : 0,
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
 "frame" : {
 "x" : 162,
 "y" : 85,
@@ -72,7 +76,7 @@
 "width" : 601
 },
 "do_objectID" : "377853D8-8221-4E38-8EF2-BFEDC61E9AC9",
-"layerListExpandedType" : 0,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "includedLayerIds" : [
@@ -84,15 +88,9 @@
 
 ]
 },
-"hasClickThrough" : true,
 "hasBackgroundColor" : false,
-"horizontalRulerData" : {
-"base" : 0,
-"_class" : "rulerData",
-"guides" : [
-
-]
-},
+"includeInCloudUpload" : true,
+"layerListExpandedType" : 0,
 "backgroundColor" : {
 "red" : 1,
 "_class" : "color",
@@ -100,8 +98,8 @@
 "blue" : 1,
 "green" : 1
 },
-"includeInCloudUpload" : true,
 "resizesContent" : false,
+"rotation" : 0,
 "verticalRulerData" : {
 "base" : 0,
 "_class" : "rulerData",
@@ -110,11 +108,9 @@
 ]
 },
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "Artboard",
 "isVisible" : true,
-"resizingType" : 0,
-"clippingMaskMode" : 0,
 "hasClippingMask" : false,
 "layers" : [
 {
@@ -142,11 +138,11 @@
 {
 "_class" : "fill",
 "color" : {
-"red" : 1,
+"red" : 0.30714052822653709,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.01977896341463414,
-"green" : 0.01977896341463414
+"green" : 1
 },
 "patternTileScale" : 1,
 "fillType" : 0,
@@ -184,12 +180,12 @@
 },
 "edited" : false,
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "Oval",
 "isVisible" : true,
-"resizingType" : 0,
-"clippingMaskMode" : 0,
 "hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
 "isClosed" : true,
 "isLocked" : false,
 "points" : [
@@ -250,7 +246,7 @@
 "encodedAttributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
-"name" : "Rubik-Regular",
+"name" : "Rubik-BoldItalic",
 "size" : 50
 },
 "_class" : "fontDescriptor"
@@ -262,8 +258,8 @@
 "blue" : 0.14117647059999999,
 "green" : 0.1333333333
 },
-"textStyleVerticalAlignmentKey" : 0,
 "kerning" : -0.625,
+"textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
 "_class" : "paragraphStyle",
 "alignment" : 2
@@ -276,14 +272,14 @@
 "startMarkerType" : 0,
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"glyphBounds" : "{{3, 11}, {158, 37}}",
 "frame" : {
-"x" : 227,
+"x" : 221.5,
 "y" : 435,
 "_class" : "rect",
 "constrainProportions" : false,
 "height" : 60,
-"width" : 148
+"width" : 159
 },
 "do_objectID" : "C9D1DA7D-39C4-4E0F-B1EA-BFCCC2CB0C8D",
 "layerListExpandedType" : 0,
@@ -298,30 +294,27 @@
 
 ]
 },
-"glyphBounds" : "{{1, 11}, {143, 37}}",
+"rotation" : 0,
 "dontSynchroniseWithSymbol" : false,
 "lineSpacingBehaviour" : 2,
 "textBehaviour" : 0,
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "TEST 1",
 "isVisible" : true,
-"resizingType" : 0,
-"clippingMaskMode" : 0,
 "hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
 "isLocked" : false,
 "attributedString" : {
-"string" : "TEST 1",
-"_class" : "attributedString",
 "attributes" : [
 {
 "length" : 6,
 "_class" : "stringAttribute",
-"location" : 0,
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
-"name" : "Rubik-Regular",
+"name" : "Rubik-BoldItalic",
 "size" : 50
 },
 "_class" : "fontDescriptor"
@@ -339,9 +332,12 @@
 "_class" : "paragraphStyle",
 "alignment" : 2
 }
+},
+"location" : 0
 }
-}
-]
+],
+"_class" : "attributedString",
+"string" : "TEST 1"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -351,19 +347,23 @@
 "automaticallyDrawOnUnderlyingPath" : false
 }
 ],
+"nameIsFixed" : false,
+"resizingType" : 0,
 "isLocked" : false,
 "groupLayout" : {
 "_class" : "MSImmutableFreeformGroupLayout"
 },
-"shouldBreakMaskChain" : true,
 "isFlowHome" : false,
+"shouldBreakMaskChain" : true,
 "isFixedToViewport" : false,
 "_class" : "artboard",
 "booleanOperation" : -1,
-"resizingConstraint" : 63,
-"includeBackgroundColorInExport" : true
+"includeBackgroundColorInExport" : true,
+"resizingConstraint" : 63
 }
 ],
+"nameIsFixed" : false,
+"resizingType" : 0,
 "isLocked" : false,
 "groupLayout" : {
 "_class" : "MSImmutableFreeformGroupLayout"
