@@ -138,11 +138,11 @@
 {
 "_class" : "fill",
 "color" : {
-"red" : 1,
+"red" : 0.63765285326086951,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.8799357755668491,
-"green" : 0.01977896341463414
+"blue" : 0.60867634614243837,
+"green" : 0.40108461673287538
 },
 "patternTileScale" : 1,
 "fillType" : 0,
@@ -159,7 +159,7 @@
 "rotation" : 0,
 "frame" : {
 "x" : 145,
-"y" : 61,
+"y" : 69,
 "_class" : "rect",
 "constrainProportions" : true,
 "height" : 312,
